@@ -1,0 +1,4 @@
+#ifndef ADVANCESORT_H
+#define ADVANCESORT_H
+
+#endif // ADVANCESORT_H
